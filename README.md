@@ -8,6 +8,6 @@
 
 ## 说明
 
-- 页面采用原生 HTML、CSS 与 JavaScript，可直接部署到 GitHub Pages。
+- 整个 H5 只有一个 `index.html`：图片、CSS 与 JavaScript 均已内嵌，可直接部署到 GitHub Pages。
 - 行情、来源覆盖和 AI 分析结果均为产品交互演示，不代表实时数据或投资建议。
 - 真实 AI 与行业数据接入应通过服务端完成，不应在前端代码中保存 API 密钥。
